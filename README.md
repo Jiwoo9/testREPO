@@ -3,5 +3,5 @@
 # 1주차 과제
 
 # 2주차 과제
-<img width="" height="" src="./png/19173037_jiwoo.png"></img>
+<img width="" height="" src="./19173037_jiwoo.png"></img>
 # 3주차 과제
