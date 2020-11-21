@@ -22,3 +22,6 @@
 # 7주차 과제
 <img width="" height="" src="./7we.1.PNG"></img>
 <img width="" height="" src="./7we.2.PNG"></img>
+# 12주차 과제
+<img width="" height="" src="./12week.1.PNG"></img>
+<img width="" height="" src="./12week.2.PNG"></img>
